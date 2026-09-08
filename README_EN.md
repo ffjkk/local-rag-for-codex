@@ -101,6 +101,8 @@ Parsing, OCR, embeddings, indexing, and search run locally. When Codex calls kno
 
 ## Features
 
+- One-click Chinese/English UI switching with browser-local persistence. Uploaded names, folder names, and document content are never translated.
+
 - Nested categories and folder-preserving batch uploads.
 - PDF OCR, DOCX body/table extraction, and broad text encoding support.
 - Safe Markdown, JSON, CSV, and TSV previews.
