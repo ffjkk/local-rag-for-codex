@@ -1,0 +1,23 @@
+# Local knowledge, indexes, logs, and backups
+/data/
+/backups/
+/models/
+/cache/
+/tmp/
+
+# Local environments and machine-specific installation state
+/.venv/
+/global-installation.json
+/.codex/
+
+# Test and Python artifacts
+/.pytest_cache/
+/test-results*.json
+**/__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
